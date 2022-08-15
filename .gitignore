@@ -1,2 +1,3 @@
 // Las carpetas q queremos ignorar
 .env
+node-modules
